@@ -1,0 +1,24 @@
+{
+  "project": "scope Learning to Route On-Chip",
+  "generated": "2026-09-10T14:54:27.763Z",
+  "schemaVersion": 4,
+  "score": 91,
+  "files": {
+    "README.md": "06630bd2762a9d9a",
+    "manifest.json": "2d7093ac761920f4",
+    "specs/SPEC-000-product-vision.md": "5c2876567d6c1d72",
+    "specs/ADR-001-spec-driven-development.md": "08f48bc61bdebb72",
+    "protocol/protocol.md": "51577f3c71067884",
+    "searches/searches.json": "6f2baf044d7ea1b4",
+    "references/references.bib": "2c0a76a0744b7258",
+    "screening/screening.csv": "20dd11b81026f800",
+    "quality/quality.csv": "05a771d709c44531",
+    "extraction/extraction.csv": "33e13ef9219dadff",
+    "evidence/evidence-matrix.csv": "1d96a373152c5605",
+    "prisma/flow.json": "40199680401505c8",
+    "prisma/checklist.csv": "10ebb21e4d16d456",
+    "audit/audit.json": "476630fb53b6c27d",
+    "ai/governance.json": "0059765d06587b9b",
+    "reports/final-report.md": "3b98fb83292431f5"
+  }
+}

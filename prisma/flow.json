@@ -1,0 +1,16 @@
+{
+  "computed": "2026-09-10T14:54:27.755Z",
+  "identified": 175,
+  "duplicates": 0,
+  "otherRemoved": 0,
+  "screened": 175,
+  "excludedTA": 121,
+  "sought": 54,
+  "pendingTA": 0,
+  "notRetrieved": 0,
+  "assessed": 54,
+  "excludedFT": 5,
+  "included": 49,
+  "pendingFT": 0,
+  "reportsIncluded": 49
+}

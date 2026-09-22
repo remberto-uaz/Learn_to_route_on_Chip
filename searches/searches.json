@@ -1,0 +1,197 @@
+{
+  "queryVersion": 3,
+  "groups": [
+    {
+      "id": "g1mtrlxt48",
+      "connector": "AND",
+      "field": "Title",
+      "terms": [
+        "*NoC",
+        "Network*-on-Chip",
+        "Interconnect*"
+      ]
+    },
+    {
+      "id": "g2mtrly78d",
+      "connector": "AND",
+      "field": "Title",
+      "terms": [
+        "*routing"
+      ]
+    },
+    {
+      "id": "g3mtrlybhg",
+      "connector": "AND",
+      "field": "All fields",
+      "terms": [
+        "*learning"
+      ]
+    }
+  ],
+  "executions": [
+    {
+      "id": "se-udt78w",
+      "database": "ACM Digital Library",
+      "at": "2026-09-07T18:58:38.960Z",
+      "by": "u-s1la4g",
+      "results": 19,
+      "filters": "[Title: network-on-chip] AND [Title: learning] AND [E-Publication Date: (01/01/2015 TO 12/31/2026)]",
+      "queryVersion": 3,
+      "attachedFile": {
+        "name": "ACM (19).bib",
+        "kind": "bib",
+        "importedCount": 19
+      }
+    },
+    {
+      "id": "se-ujtm8a",
+      "database": "IEEE Xplore",
+      "at": "2026-09-07T18:58:58.378Z",
+      "by": "u-s1la4g",
+      "results": 41,
+      "filters": "(((\"Document Title\":*NoC) OR (\"Document Title\":Network*-on-Chip) OR (\"Document Title\":interconnect*)) AND (\"Document Title\":*routing) AND (\"All Metadata\":*learning))",
+      "queryVersion": 3,
+      "attachedFile": {
+        "name": "IEEE (41).bib",
+        "kind": "bib",
+        "importedCount": 41
+      }
+    },
+    {
+      "id": "se-ukv0o6",
+      "database": "ScienceDirect",
+      "at": "2026-09-07T19:00:03.750Z",
+      "by": "u-s1la4g",
+      "results": 49,
+      "filters": "TITLE-ABS-KEY((NoC OR \"Network-on-Chip\" OR Interconnect) AND routing AND learning); 2015-2026; Computer Science; Enginneering",
+      "queryVersion": 3,
+      "attachedFile": {
+        "name": "ScienceDirect (49).bib",
+        "kind": "bib",
+        "importedCount": 49
+      }
+    },
+    {
+      "id": "se-uqw4tn",
+      "database": "SpringerLink",
+      "at": "2026-09-07T19:00:55.787Z",
+      "by": "u-s1la4g",
+      "results": 18,
+      "filters": "Title: (*NoC OR \"Network*-on-Chip\" OR Interconnect*) AND *routing; Keywords: *learning; 2015-2026",
+      "queryVersion": 3,
+      "attachedFile": {
+        "name": "Springer (18).bib",
+        "kind": "bib",
+        "importedCount": 18
+      }
+    },
+    {
+      "id": "se-uwx5mc",
+      "database": "Wiley Online Library",
+      "at": "2026-09-07T19:01:43.476Z",
+      "by": "u-s1la4g",
+      "results": 24,
+      "filters": "*NoC OR \"Network*-on-Chip\" OR Interconnect* AND *routing AND *learning\" in Title; OPen Access; 2015-2026; Computer Science",
+      "queryVersion": 3,
+      "attachedFile": {
+        "name": "WILEY (24).bib",
+        "kind": "bib",
+        "importedCount": 24
+      }
+    },
+    {
+      "id": "se-s2oesb",
+      "database": "Prior Knowledge",
+      "at": "2026-09-08T00:02:51.227Z",
+      "by": "u-s1la4g",
+      "results": 24,
+      "filters": "",
+      "queryVersion": 3,
+      "attachedFile": {
+        "name": "mano_v1.bib",
+        "kind": "bib",
+        "importedCount": 24
+      }
+    }
+  ],
+  "databases": [
+    {
+      "id": "db1",
+      "name": "Scopus",
+      "enabled": false,
+      "url": "https://www.scopus.com"
+    },
+    {
+      "id": "db2",
+      "name": "Web of Science",
+      "enabled": false,
+      "url": "https://www.webofscience.com"
+    },
+    {
+      "id": "db3",
+      "name": "IEEE Xplore",
+      "enabled": true,
+      "url": "https://ieeexplore.ieee.org"
+    },
+    {
+      "id": "db4",
+      "name": "ACM Digital Library",
+      "enabled": true,
+      "url": "https://dl.acm.org"
+    },
+    {
+      "id": "db5",
+      "name": "PubMed",
+      "enabled": false,
+      "url": "https://pubmed.ncbi.nlm.nih.gov"
+    },
+    {
+      "id": "db6",
+      "name": "ScienceDirect",
+      "enabled": true,
+      "url": "https://www.sciencedirect.com"
+    },
+    {
+      "id": "db7",
+      "name": "SpringerLink",
+      "enabled": true,
+      "url": "https://link.springer.com"
+    },
+    {
+      "id": "db8",
+      "name": "arXiv",
+      "enabled": false,
+      "url": "https://arxiv.org"
+    },
+    {
+      "id": "db9",
+      "name": "Semantic Scholar",
+      "enabled": false,
+      "url": "https://www.semanticscholar.org"
+    },
+    {
+      "id": "db10",
+      "name": "OpenAlex",
+      "enabled": false,
+      "url": "https://openalex.org"
+    },
+    {
+      "id": "db11",
+      "name": "Wiley Online Library",
+      "enabled": true,
+      "url": "https://onlinelibrary.wiley.com"
+    },
+    {
+      "id": "db12",
+      "name": "MDPI",
+      "enabled": true,
+      "url": "https://www.mdpi.com"
+    },
+    {
+      "id": "db-rznt4e",
+      "name": "Prior Knowledge",
+      "enabled": true,
+      "custom": true
+    }
+  ]
+}

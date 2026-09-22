@@ -1,0 +1,29 @@
+# PRISMA 2020 Checklist
+
+- [x] **1 Title** (Title) — Complete · Report §Title · Auto-detected from project metadata.
+- [x] **2 Abstract** (Abstract) — Complete · Manuscript
+- [x] **3 Rationale** (Introduction) — Complete · Manuscript
+- [x] **4 Objectives** (Introduction) — Complete · Protocol §Research Questions · PICO/PICOC question approved.
+- [x] **5 Eligibility criteria** (Methods) — Complete · Protocol §Eligibility · 8 criteria defined.
+- [x] **6 Information sources** (Methods) — Complete · PRISMA-S §Sources · 7 sources enabled.
+- [x] **7 Search strategy** (Methods) — Complete · PRISMA-S §Strings · 6 executions archived.
+- [x] **8 Selection process** (Methods) — Complete · Protocol §Study Selection · Independent decisions found in screening log.
+- [x] **9 Data collection process** (Methods) — Complete · Extraction MAtrix
+- [x] **10a Data items** (Methods) — Complete · Extraction schema · 8 fields defined.
+- [x] **11 Study risk of bias assessment** (Methods) — Complete · Quality module · 52 assessments recorded.
+- [x] **12 Effect measures** (Methods) — Complete
+- [x] **13a Synthesis methods** (Methods) — Complete
+- [x] **14 Reporting bias assessment** (Methods) — Complete
+- [x] **15 Certainty assessment** (Methods) — Complete
+- [x] **16a Study selection** (Results) — Complete · PRISMA flow · Flow consistent; screening complete.
+- [x] **16b Study characteristics** (Results) — Complete · Evidence matrix · 52 included studies characterized.
+- [x] **16d Results of individual studies** (Results) — Complete
+- [x] **17 Results of syntheses** (Results) — Complete
+- [x] **18 Reporting biases** (Results) — Complete
+- [x] **19a Certainty of evidence** (Results) — Complete
+- [x] **22 Discussion** (Discussion) — Complete
+- [x] **23a Limitations of evidence** (Discussion) — Complete
+- [x] **24a Registration and protocol** (Other) — Not applicable
+- [x] **25 Support** (Other) — Complete
+- [x] **26 Competing interests** (Other) — Complete
+- [x] **27 Availability of data** (Other) — Complete · Export package · Reproducibility package downloadable with hashes.
